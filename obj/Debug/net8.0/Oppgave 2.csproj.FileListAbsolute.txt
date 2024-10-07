@@ -1,0 +1,15 @@
+C:\Skule\C#\Oppgave 2\bin\Debug\net8.0\Oppgave 2.exe
+C:\Skule\C#\Oppgave 2\bin\Debug\net8.0\Oppgave 2.deps.json
+C:\Skule\C#\Oppgave 2\bin\Debug\net8.0\Oppgave 2.runtimeconfig.json
+C:\Skule\C#\Oppgave 2\bin\Debug\net8.0\Oppgave 2.dll
+C:\Skule\C#\Oppgave 2\bin\Debug\net8.0\Oppgave 2.pdb
+C:\Skule\C#\Oppgave 2\obj\Debug\net8.0\Oppgave 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Skule\C#\Oppgave 2\obj\Debug\net8.0\Oppgave 2.AssemblyInfoInputs.cache
+C:\Skule\C#\Oppgave 2\obj\Debug\net8.0\Oppgave 2.AssemblyInfo.cs
+C:\Skule\C#\Oppgave 2\obj\Debug\net8.0\Oppgave 2.csproj.CoreCompileInputs.cache
+C:\Skule\C#\Oppgave 2\obj\Debug\net8.0\Oppgave 2.sourcelink.json
+C:\Skule\C#\Oppgave 2\obj\Debug\net8.0\Oppgave 2.dll
+C:\Skule\C#\Oppgave 2\obj\Debug\net8.0\refint\Oppgave 2.dll
+C:\Skule\C#\Oppgave 2\obj\Debug\net8.0\Oppgave 2.pdb
+C:\Skule\C#\Oppgave 2\obj\Debug\net8.0\Oppgave 2.genruntimeconfig.cache
+C:\Skule\C#\Oppgave 2\obj\Debug\net8.0\ref\Oppgave 2.dll
